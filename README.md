@@ -12,7 +12,7 @@ The following command helps to perform operations with the notebook.
 
 ## Cells Operation
 
-The following commands help with performing operations on cells.
+The following commands help with performing operations on cells. **NOTE**: single letter commands works in conjunction with **ESC**.
 
 * **J**: Select the cell below the current cell.
 * **K**: Select the cell above the current cell.
